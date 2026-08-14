@@ -84,6 +84,7 @@ scene:
   preview_while_skipping: True
   # How long does a scene pause on Scene.wait calls
   default_wait_time: 1.0
+  # Should scrolling up zoom in or out?
   invert_zoom_scroll: False
 vmobject:
   default_stroke_width: 4.0
